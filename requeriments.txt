@@ -1,4 +1,8 @@
 fastapi
 uvicorn
-pyyaml
-
+PyYAML
+fpdf
+matplotlib
+weasyprint
+python-multipart
+Jinja2
